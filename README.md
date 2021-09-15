@@ -15,6 +15,16 @@ standard "0down" ones.
 
 ----
 
+I added *UNTESTED* firmware builds for the SOFT/HRUF Splitography.
+I didn't feel like back-porting my extensions to the old version
+of QMK that the splito code uses, so I copied the keyboard code
+into my current QMK, added a `LAYOUT()` for the key matrix, and
+defined `BOOTLOADER halfkay` instead of manually defining the
+`BOOTLOADER_SIZE`. Hopefully neither of those are dangerous things
+to do but I don't actually know what I'm doing...
+
+----
+
 The Georgi has two thumb positions. Your home position can be with
 your thumbs out (spread more away from your hand) or in (tucked
 under your hand). So far I've only built the thumbs-out one since
