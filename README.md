@@ -1,4 +1,5 @@
-I've made two extensions to the QMK steno code.
+I've made two extensions to the QMK steno code (see [the source
+code](https://github.com/JoshuaGrams/qmk-steno-extensions))
 
 One sends the chord when you release its first key, allowing you
 to hold down common keys in between chords. So you can (for
