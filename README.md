@@ -25,6 +25,11 @@ to do but I don't actually know what I'm doing...
 
 ----
 
+The Uni builds are untested but they're current code so I didn't
+have to do any tweaks: presumably they should be fine.
+
+----
+
 The Georgi has two thumb positions. Your home position can be with
 your thumbs out (spread more away from your hand) or in (tucked
 under your hand). So far I've only built the thumbs-out one since
