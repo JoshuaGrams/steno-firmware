@@ -18,10 +18,10 @@ your `config.h` to enable this feature.
 
 ----
 
-I've built firmware for the Georgi, the SOFT/HRUF Splitography,
-and the Uni. I'm still working on figuring out how to build
-firmware for the EcoSteno. And the TinyMod doesn't use QMK, so
-porting it to that would be a whole other project.
+I have now built firmware for all four QMK-based hobbyist steno
+boards. The EcoSteno firmware is still untested but the others
+seem to work. The TinyMod doesn't use QMK, so porting it to that
+would be a whole other project.
 
 
 Georgi
@@ -48,17 +48,14 @@ to work.
 The Uni
 -------
 
-These are untested but the Uni code works against the current QMK
-so I didn't change any of it. I'd expect it to just work.
+Peter tried out the repeat (and helped me squash a bug), so these
+seem to work now.
 
 
 EcoSteno
 --------
 
-The EcoSteno uses different hardware (?) and is built against QMK
-with an older version of ChibiOS. So I have to figure out which
-version to check out and build against, and possibly I'll have to
-port my code again, a bit? We'll see how that goes.
+These built without errors but haven't been tested.
 
 
 TinyMod
