@@ -6,7 +6,7 @@ The `default` versions have the home position with your thumbs spread out away f
 
 Versions with `repeat` allow you to double-tap-and-hold a chord to auto-repeat it: handy for navigation. Repeat speed depends on how fast you double-tap.
 
-Versions with `1up` send the chord as soon as you release the first key, allowing you to (for instance) hold your right-hand fingerspelling chord and just tap the letters on the left hand. Note that this may give you lots of misstrokes depending on your stroking technique
+Versions with `1up` send the chord as soon as you release the first key, allowing you to (for instance) hold your right-hand fingerspelling chord and just tap the letters on the left hand. Note that this may give you lots of misstrokes depending on your stroking technique.
 
 -----
 
