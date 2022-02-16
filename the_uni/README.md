@@ -14,7 +14,7 @@ To install this firmware on your device:
 
 This is a lot of steps but each one is pretty simple. I'm trying to go into full detail so you don't need to have any prior experience. And I'm adding some steps that may be unnecessary but sometimes do avoid problems.
 
-* Download the firmware file you want. Put it somewhere you can find it.
+* Download the firmware file you want (click on the filename, then click on "Raw" just above all the gibberish, then Ctrl+S or Apple+S to save it). Put it somewhere you can find it.
 * Download the [QMK Toolbox][1] software (under the Assets section: you may have to click the arrow to expand it):
   * For Windows: `qmk_toolbox_install.exe`
   * For Mac: `QMK.Toolbox.app.zip`
