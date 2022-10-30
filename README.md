@@ -59,6 +59,16 @@ EcoSteno
 These built without errors but haven't been tested.
 
 
+Multisteno
+------
+
+Tested all 8 variants and are all working as intended.
+
+Like the Georgi, the Multisteno has two configurations for the
+thumb home position between the vowel keys: thumbs spread `out`
+or thumbs tucked `in`.
+
+
 TinyMod
 -------
 
