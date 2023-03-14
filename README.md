@@ -1,5 +1,10 @@
-I've made two extensions to the QMK steno code (see [the source
-code](https://github.com/JoshuaGrams/qmk-steno-extensions))
+I've made two extensions to the QMK steno code. I haven't updated
+this in ages so for the source code
+[openstenoproject/qmk](https://github.com/openstenoproject/qmk)
+may be a better place: sammdot was collecting a bunch of different
+hobbyist mods to the steno firmware. But [my source
+tree](https://github.com/JoshuaGrams/qmk-steno-extensions) is also
+available.
 
 One sends the chord when you release its first key, allowing you
 to hold down common keys in between chords. So you can (for
